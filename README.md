@@ -8,3 +8,7 @@ Les ciseaux battent le papier
 Si les deux joueurs choisissent la même option, la manche est considérée comme nulle et les joueurs doivent recommencer.
 
 Le jeu peut être joué en plusieurs manches pour déterminer un gagnant final. C'est un jeu simple et amusant qui peut être joué n'importe où et à tout moment.
+
+
+Pour lancer le jeu, il faut avoir Python, et lancer avec la commande suivante
+```python3 shifumi.py```
